@@ -15,8 +15,7 @@ It supports user registration, patient management, doctor management, and patien
 - [Running the Server](#running-the-server)  
 - [API Endpoints](#api-endpoints)  
 - [Database Structure](#database-structure)  
-- [Screenshots](#screenshots)  
-- [Author](#author)
+
 
 ---
 
