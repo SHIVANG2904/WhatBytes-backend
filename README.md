@@ -15,6 +15,7 @@ It supports user registration, patient management, doctor management, and patien
 - [Running the Server](#running-the-server)  
 - [API Endpoints](#api-endpoints)  
 - [Database Structure](#database-structure)  
+- [Screenshots](#Screenshots)  
 
 
 ---
@@ -79,6 +80,7 @@ Production Mode:
 
 npm start
 The server will run on http://localhost:5000 by default.
+
 
 
 
