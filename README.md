@@ -82,6 +82,3 @@ The server will run on http://localhost:5000 by default.
 
 
 
-You can copy-paste this directly into your `README.md`.  
-
-If you want, I can combine this with the **API endpoints section** so your README is complete in one go. Do you want 
